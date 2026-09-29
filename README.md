@@ -7,7 +7,7 @@ About me
  Sharing my projects and progress here
  
 Skills
-HTML · CSS · JavaScript · Information Security.
+HTML · CSS · JavaScript · Information Security. Java. Databases. SQL. 
 
 Projects
 Check out my pinned repositories below. More coming soon.
