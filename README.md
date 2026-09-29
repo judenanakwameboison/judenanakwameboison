@@ -1,8 +1,8 @@
 Hi, I'm Jude 
-Web developer from Ghana 🇬🇭, learning information systems security.
+ developer from Ghana 🇬🇭, learning information systems security.
 
 About me
- I build websites for real businesses
+ I build systems and websites for real businesses
  Currently learning how to build secure systems
  Sharing my projects and progress here
  
