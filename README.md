@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Jude 
+Web developer from Ghana 🇬🇭, learning information systems security.
 
-<!--
-**judenanakwameboison/judenanakwameboison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+ I build websites for real businesses
+ Currently learning how to build secure systems
+ Sharing my projects and progress here
+ 
+Skills
+HTML · CSS · JavaScript · Information Security.
 
-Here are some ideas to get you started:
+Projects
+Check out my pinned repositories below. More coming soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+TikTok: www.tiktok.com/@boison_jnk
+LinkedIn: https://www.linkedin.com/in/jude-boison-817223375?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Email: judekanakwame123@gmail.com
